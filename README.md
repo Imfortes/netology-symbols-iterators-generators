@@ -1,0 +1,1 @@
+# netology-symbols-iterators-generators
